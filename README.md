@@ -1,3 +1,3 @@
-# sandbox
-wastage
-asdfffgg
+<?php
+echo asshole;
+?>
